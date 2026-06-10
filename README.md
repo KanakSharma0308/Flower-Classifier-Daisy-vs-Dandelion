@@ -31,8 +31,7 @@ ToolPurposePython 3.11Core languagefastaiDeep learning frameworkPyTorchBackendNu
 
 ⚙️ Setup & Usage
 1. Clone the repo
-bashgit clone https://github.com/your-username/flower-classifier-fastai.git
-cd flower-classifier-fastai
+bashgit clone (https://github.com/KanakSharma0308/Flower-Classifier-Daisy-vs-Dandelion)
 2. Install dependencies
 bashpip install fastai numpy
 3. Prepare your dataset
